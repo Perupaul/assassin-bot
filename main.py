@@ -160,7 +160,7 @@ def get_assassin_from_code(code: str, assassins: dict):
 
 
 def run_discord_bot():
-    token = 'MTAzNjgxODA2OTU5MjQ4MTgyMg.G2YUcr.lHtotkM1BTH0fRoL4aW_7gX9OoaEN7ghwH7OOg'
+    token = 'Redacted'
     intents = discord.Intents.default()
     # noinspection PyUnresolvedReferences
     intents.message_content = True
